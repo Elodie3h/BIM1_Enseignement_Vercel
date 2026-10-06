@@ -1,0 +1,11 @@
+{
+  "name": "Collapsible headings",
+  "version": "1.0.0",
+  "description": "Rend les titres H2 repliables",
+  "scripts": [
+    "collapsible-headings.js"
+  ],
+  "styles": [
+    "collapsible-headings.css"
+  ]
+}
