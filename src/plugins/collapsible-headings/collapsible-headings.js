@@ -1,9 +1,9 @@
 document.addEventListener("DOMContentLoaded", () => {
 
   const headings = document.querySelectorAll(
-    ".markdown-preview-view h1, .markdown-preview-view h2," +
-    ".content h1, .content h2," +
-    "main h1, main h2"
+    ".markdown-preview-view h1:not(:first-of-type), .markdown-preview-view h2," +
+    ".content h1:not(:first-of-type), .content h2," +
+    "main h1:not(:first-of-type), main h2"
   );
 
   headings.forEach((heading) => {
