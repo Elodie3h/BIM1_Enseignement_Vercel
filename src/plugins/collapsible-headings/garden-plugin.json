@@ -1,11 +1,13 @@
 {
-  "name": "Collapsible headings",
+  "id": "collapsible-headings",
+  "name": "Collapsible Headings",
   "version": "1.0.0",
-  "description": "Rend les titres H2 repliables",
-  "scripts": [
-    "collapsible-headings.js"
-  ],
+  "description": "Rend les titres des notes repliables.",
+  "author": "Elodie",
   "styles": [
     "collapsible-headings.css"
+  ],
+  "scripts": [
+    "collapsible-headings.js"
   ]
 }
