@@ -1,28 +1,45 @@
 document.addEventListener("DOMContentLoaded", () => {
 
-  const headings = document.querySelectorAll(".markdown-preview-view h2, .content h2, main h2");
+  const headings = document.querySelectorAll(
+    ".markdown-preview-view h1, .markdown-preview-view h2," +
+    ".content h1, .content h2," +
+    "main h1, main h2"
+  );
 
   headings.forEach((heading) => {
 
+    if (heading.classList.contains("collapsible-heading")) return;
+
     heading.classList.add("collapsible-heading");
 
-    let next = heading.nextElementSibling;
+    const currentLevel = parseInt(heading.tagName.substring(1));
     const elements = [];
 
-    while (
-      next &&
-      next.tagName !== "H1" &&
-      next.tagName !== "H2"
-    ) {
+    let next = heading.nextElementSibling;
+
+    while (next) {
+
+      if (/^H[1-6]$/.test(next.tagName)) {
+        const nextLevel = parseInt(next.tagName.substring(1));
+
+        // Stop au prochain titre de même niveau
+        // ou de niveau supérieur
+        if (nextLevel <= currentLevel) {
+          break;
+        }
+      }
+
       elements.push(next);
       next = next.nextElementSibling;
     }
 
     if (elements.length === 0) return;
 
+    heading.setAttribute("role", "button");
+    heading.setAttribute("tabindex", "0");
     heading.setAttribute("aria-expanded", "true");
 
-    heading.addEventListener("click", () => {
+    const toggle = () => {
 
       const collapsed =
         heading.classList.toggle("is-collapsed");
@@ -36,7 +53,15 @@ document.addEventListener("DOMContentLoaded", () => {
         "aria-expanded",
         collapsed ? "false" : "true"
       );
+    };
 
+    heading.addEventListener("click", toggle);
+
+    heading.addEventListener("keydown", (event) => {
+      if (event.key === "Enter" || event.key === " ") {
+        event.preventDefault();
+        toggle();
+      }
     });
 
   });
