@@ -2,12 +2,7 @@
 {"dg-publish":true,"permalink":"/bim-1/presentation-de-l-enseignement/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
-
-
-Ceci est un texte 
-# Titre de niveau 1 
-
-test  test 
+# Ici un test de titre de nivau1 
 
 ## Titre de niveau 2 
 test 
