@@ -1,43 +1,44 @@
 document.addEventListener("DOMContentLoaded", () => {
-  const headings = document.querySelectorAll("article h2");
+
+  const headings = document.querySelectorAll(".markdown-preview-view h2, .content h2, main h2");
 
   headings.forEach((heading) => {
+
     heading.classList.add("collapsible-heading");
 
-    const elements = [];
     let next = heading.nextElementSibling;
+    const elements = [];
 
-    while (next && next.tagName !== "H2" && next.tagName !== "H1") {
+    while (
+      next &&
+      next.tagName !== "H1" &&
+      next.tagName !== "H2"
+    ) {
       elements.push(next);
       next = next.nextElementSibling;
     }
 
-    if (!elements.length) return;
+    if (elements.length === 0) return;
 
-    heading.setAttribute("role", "button");
-    heading.setAttribute("tabindex", "0");
     heading.setAttribute("aria-expanded", "true");
 
-    const toggle = () => {
-      const collapsed = heading.classList.toggle("is-collapsed");
+    heading.addEventListener("click", () => {
+
+      const collapsed =
+        heading.classList.toggle("is-collapsed");
 
       elements.forEach((element) => {
-        element.hidden = collapsed;
+        element.style.display =
+          collapsed ? "none" : "";
       });
 
       heading.setAttribute(
         "aria-expanded",
         collapsed ? "false" : "true"
       );
-    };
 
-    heading.addEventListener("click", toggle);
-
-    heading.addEventListener("keydown", (event) => {
-      if (event.key === "Enter" || event.key === " ") {
-        event.preventDefault();
-        toggle();
-      }
     });
+
   });
+
 });
