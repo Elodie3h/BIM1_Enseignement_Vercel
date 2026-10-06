@@ -8,7 +8,7 @@
 >40150 Soorts-Hossegor 
 >
 
-## Présentation du bâtiment : Une maison pour surfer
+## Une maison pour surfer
 
 ![Pasted image 20261006161647.png\|408](/img/user/Pasted%20image%2020261006161647.png)
 
