@@ -1,12 +1,20 @@
 document.addEventListener("DOMContentLoaded", () => {
 
   const headings = document.querySelectorAll(
-    ".markdown-preview-view h1:not(:first-of-type), .markdown-preview-view h2," +
-    ".content h1:not(:first-of-type), .content h2," +
-    "main h1:not(:first-of-type), main h2"
+    ".markdown-preview-view h1, .markdown-preview-view h2," +
+    ".content h1, .content h2," +
+    "main h1, main h2"
   );
 
+  let firstH1Skipped = false;
+
   headings.forEach((heading) => {
+
+    // Ignore le titre principal de la page
+    if (heading.tagName === "H1" && !firstH1Skipped) {
+      firstH1Skipped = true;
+      return;
+    }
 
     if (heading.classList.contains("collapsible-heading")) return;
 
@@ -22,8 +30,6 @@ document.addEventListener("DOMContentLoaded", () => {
       if (/^H[1-6]$/.test(next.tagName)) {
         const nextLevel = parseInt(next.tagName.substring(1));
 
-        // Stop au prochain titre de même niveau
-        // ou de niveau supérieur
         if (nextLevel <= currentLevel) {
           break;
         }
