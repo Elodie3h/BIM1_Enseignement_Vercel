@@ -8,3 +8,9 @@
 >40150 Soorts-Hossegor 
 >
 
+## Présentation du bâtiment : Une maison pour surfer
+
+![Pasted image 20261006161647.png\|408](/img/user/Pasted%20image%2020261006161647.png)
+
+**Publication Archdaily :** [Lien Archdaily](https://www.archdaily.com/903878/une-maison-pour-surfer-java-architecture)
+**Site internet de l'agence**  : [Java Architecture](https://javarchitecture.fr/une-maison-pour-surfer/)
