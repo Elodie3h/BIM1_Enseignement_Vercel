@@ -9,7 +9,7 @@
 
 ![Pasted image 20261006161647.png\|408](/img/user/Pasted%20image%2020261006161647.png)
 
-### Localisation : Soorts-Hossegor
+## Localisation : Soorts-Hossegor
 
 ![Pasted image 20261006162140.png\|700](/img/user/Pasted%20image%2020261006162140.png)
 
@@ -17,7 +17,8 @@
 > [!info]- Adresse
 > 501 Rue des Bucherons
 >40150 Soorts-Hossegor 
-### Une maison d'habitation en ossature bois 
+## Une maison d'habitation en ossature bois 
 
-![Pasted image 20261006162434.png\|450](/img/user/Pasted%20image%2020261006162434.png)
+![Pasted image 20261031140630.png](/img/user/Pasted%20image%2020261031140630.png)
 
+![Pasted image 20261031140725.png](/img/user/Pasted%20image%2020261031140725.png)
