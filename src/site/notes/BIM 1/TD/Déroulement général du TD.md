@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/bim-1/td/deroulement-general-du-td/","dg-note-properties":{}}
 ---
 
-# **PHASE 1 : Première modélisation (conception initiale) et corrections sur le projet (type APS)**
+## **PHASE 1 : Première modélisation (conception initiale) et corrections sur le projet (type APS)**
 Cette première phase correspond à une modélisation des premières phases de conception. Beaucoup d'éléments ne sont pas encore définis à ce stade. Cette étape a vocation à poer les premiers volumes et organisations des espaces, mettre en évidence et régler des problèmes de conception (comme l'échappée de l'escalier). Pour cette étape, l'implantation sera faite à partir d'un cadastre issu de cadastre.gouv.fr importé car nous n'avons pas encore de relevé géomètre.
 
 * **1.** Mise en place du **fichier de travail**
@@ -49,6 +49,7 @@ Cette première phase correspond à une modélisation des premières phases de c
 	* ==🟢Axonométrie schématique== (déjà réalisée)
 	* ==🟢Plans des niveaux au 100, murs pochés. avec mobilier== (déjà réalisés > se mettent à jour + ajouter cotes)
 	* ==🟢Coupe longitudinale + transversale== (déjà réalisés > se mettent à jour + ajouter cotes)
+
 
 ## **PHASE 2 : Conception détaillée (type APD)**
 Cette seconde phase consiste à avancer certains éléments de conception : système constructif et dimensionnements, composition des parois, traitement de façade, détails sur les menuiseries. Pour cette étape, nous disposons d'un plan de géomètre.
