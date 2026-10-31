@@ -71,7 +71,7 @@ Cette seconde phase consiste à avancer certains éléments de conception : syst
 	* Dessin des fondations 
 	* Détails en toiture 
 	* Menuiseries : attention aux ouvertures, sens d'ouverture. 
-5. Mise en page 
+* 5. Mise en page 
 	* Documents 
 		* Plan de situation (déjà réalisé)
 		* Plan de masse détaillé (déjà réalisé, mais intégrer des éléments du plan géomètre)
