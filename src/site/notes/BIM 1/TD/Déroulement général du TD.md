@@ -46,9 +46,10 @@ Cette première phase correspond à une modélisation des premières phases de c
 		* Travailler un plan de masse
 * 4. **Mise en page** 
 	* Plan de situation (échelle à déterminer)
-	* ==🟢Axonométrie schématique== (déjà réalisée)
-	* ==🟢Plans des niveaux au 100, murs pochés. avec mobilier== (déjà réalisés > se mettent à jour + ajouter cotes)
-	* ==🟢Coupe longitudinale + transversale== (déjà réalisés > se mettent à jour + ajouter cotes)
+	* Plan de masse
+	* ==Axonométrie schématique== (déjà réalisée)
+	* ==Plans des niveaux au 100, murs pochés. avec mobilier== (déjà réalisés > se mettent à jour + ajouter cotes)
+	* ==Coupe longitudinale + transversale== (déjà réalisés > se mettent à jour + ajouter cotes)
 
 
 ## **PHASE 2 : Conception détaillée (type APD)**
