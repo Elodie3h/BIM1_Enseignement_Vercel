@@ -44,7 +44,7 @@ Cette première phase correspond à une modélisation des premières phases de c
 	* b. Complément de travail avant export 
 		* Travailler un plan de situation avec le cadastre, la photo satellite et emprise de la maison en dessin 2D (voir les imports et utilisation de combinaison de calques)
 		* Travailler un plan de masse
-* 4. **Mise en page** 
+* 5. **Mise en page** 
 	* Plan de situation (échelle à déterminer)
 	* Plan de masse
 	* ==Axonométrie schématique== (déjà réalisée)
