@@ -22,7 +22,7 @@ Cette première phase correspond à une modélisation des premières phases de c
 		* Mobilier
 		* Mobilier personnalisé : outil formes pour la cuisine + les placards à l'étage
 		* Terrain basique 
-* **3.** Mise en page "*pour revue de projet en interne de l'agence" : identification de problèmes de conception à régler.	  
+* **3.** **Mise en page** "*pour revue de projet en interne de l'agence" : identification de problèmes de conception à régler.	  
 	* a. Points à voir : 
 		* Ajouts de grouillots, du nord sur les mise en page
 		* Ajout de quelques cotes (extérieures + hauteurs pour montrer les problèmes)
@@ -35,7 +35,7 @@ Cette première phase correspond à une modélisation des premières phases de c
 			* La porte de la chambre à l'étage ne passe pas à cause de la hauteur de toiture
 			* L'escalier a un problème d'échappée et entre en collision avec le meuble de la cuisine
 	* c. Exporter + Imprimer (avec les problèmes)
-* **4.** Reprise du projet et compléments 
+* **4.** **Corrections de conception** et compléments 
 	* a. Résolution de problèmes identifiés dans le projet par la modélisation initiale : 
 		* Ajuster la hauteur de la toiture (la porte de la chambre à l'étage ne passe pas), 
 		* Échappée escalier non respectée : 
@@ -44,7 +44,7 @@ Cette première phase correspond à une modélisation des premières phases de c
 	* b. Complément de travail avant export 
 		* Travailler un plan de situation avec le cadastre, la photo satellite et emprise de la maison en dessin 2D (voir les imports et utilisation de combinaison de calques)
 		* Travailler un plan de masse
-* 4. Mise en page 
+* 4. **Mise en page** 
 	* Plan de situation (échelle à déterminer)
 	* ==🟢Axonométrie schématique== (déjà réalisée)
 	* ==🟢Plans des niveaux au 100, murs pochés. avec mobilier== (déjà réalisés > se mettent à jour + ajouter cotes)
@@ -57,22 +57,22 @@ Cette seconde phase consiste à avancer certains éléments de conception : syst
 * 1. Intégration du **plan géomètre 
 	* a. Import et nettoyage du plan 
 	* b. Modélisation du terrain plus précise
-* 2. Travail des différentes compositions de mur, toiture et dalles
+* 2. Détails : travail des différentes **compositions de mur, toiture et dalles**
 	* Murs : 
 	  Pour cette partie, il y a les murs de façade avec isolation, qui sont parfois complétés avec du bardage bois, parfois du bardage polycarbonate. A plusieurs endroits, le bardage bois est ajouté et le polycarbonate est utilisé dans sa transparence 
 	* Toiture :
 	  Découpage de l'élément toiture pour différenciation intérieur-extérieur 
 	* Dalles : 
-	  Composition dalle intérmédiaire et dalle du RDC
+	  Composition dalle intermédiaire et dalle du RDC
 * 3. Modélisation de la **structure complète de l'ossature bois** (axonométrie structure). 
 	* Utilisation des outils poteaux/poutres. 
 	  Gérer le lien avec les compositions de paroi définies avec les structures composites. 
-* 4. Travail des détails : 
+* 4. Travail des **détails et jonctions** : 
 	* Travail de la jonction dalle / façade et toiture/façade
 	* Dessin des fondations 
 	* Détails en toiture 
 	* Menuiseries : attention aux ouvertures, sens d'ouverture. 
-* 5. Mise en page 
+* 5. **Mise en page** 
 	* Documents 
 		* Plan de situation (déjà réalisé)
 		* Plan de masse détaillé (déjà réalisé, mais intégrer des éléments du plan géomètre)
