@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/bim-1/td/deroulement-general-du-td/","dg-note-properties":{}}
 ---
 
+Supports :  [Dossier Enseignant](https://nancyarchifr-my.sharepoint.com/my?id=%2Fpersonal%2Fe%5Fhochscheid%5Fnancy%5Farchi%5Ffr%2FDocuments%2FCOURS%2F%23BIM1%2DPartage&viewid=902baa10%2D5649%2D4c98%2Dbbb4%2Dc99a6ddb01d5) (Consignes + Rendu Attendu + Fichier ArchiCAD)
+Support étudiant : [Support étudiant](https://nancyarchifr.sharepoint.com/sites/PublicEtudiants)
 ## **PHASE 1 : Première modélisation (conception initiale) et corrections sur le projet (type ESQ/APS)**
 Cette première phase correspond à une modélisation des premières phases de conception. Beaucoup d'éléments ne sont pas encore définis à ce stade. Cette étape a vocation à poer les premiers volumes et organisations des espaces, mettre en évidence et régler des problèmes de conception (comme l'échappée de l'escalier). Pour cette étape, l'implantation sera faite à partir d'un cadastre issu de cadastre.gouv.fr importé car nous n'avons pas encore de relevé géomètre.
 
