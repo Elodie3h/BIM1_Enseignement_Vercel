@@ -36,4 +36,4 @@
 
 plan géomètre : 
 
-![Pasted image 20261005121943.png](/img/user/Pasted%20image%2020261005121943.png)
+![Pasted image 20261005121943.png](/img/user/IMAGES%20COLLEES/Pasted%20image%2020261005121943.png)
