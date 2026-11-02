@@ -6,6 +6,7 @@ https://bim-1-enseignement-vercel.vercel.app/
 
 ## Données bâtimentaires
 
+[BIM1_2627_Presentation_enseignement.pdf](https://nancyarchifr.sharepoint.com/:b:/s/PublicEtudiants/IQDSOrskzHGVQJsh18FeJAV4Aex0nEBxY0I4HIvUb4LhCHA?e=nV6AUz)
 ### Présentation de l’enseignement
 
 Cet enseignement constitue le premier contact des étudiant·es avec la Modélisation des Informations du Bâtiment (BIM – Building Information Modeling) dans leur cursus. Le BIM est une méthode de travail qui consiste à s’appuyer sur une maquette numérique du projet d’architecture (en 3D), intégrant de nombreuses données et informations, pour concevoir et collaborer autour d’un projet. Il implique des outils et des méthodes de travail spécifiques, et son déploiement a eu un impact important sur le secteur de l’architecture et sur la manière de travailler des architectes.
@@ -14,8 +15,7 @@ Dans ce cours, nous aborderons les principes et la genèse des pratiques BIM, ai
 
 Ce cours s’inscrit dans une série d’enseignements qui portent sur les données manipulés par les architectes. BIM1 précède un cours nommé BIM2 (Données bâtimentaires 2) en S5, et un cours de synthèse d’image (en S5 également) qui permet d’articulier la modélisation avec la production d’images de rendu. Les enseignements de données bâtimentaires s’articulent également avec un cours intitulé «Données urbaines» (SIG) en S5. 
 
-[BIM1 - Schema.pdf](https://nancyarchifr.sharepoint.com/:b:/s/PublicEtudiants/IQBpoiThbqSFQ5VdBSVHAldFAdIloCI2IQi9itGTddCo9mI?e=LJ1nLJ)
-
+[BIM1 - Schema.pdf](https://nancyarchifr.sharepoint.com/:b:/s/PublicEtudiants/IQBpoiThbqSFQ5VdBSVHAldFAdIloCI2IQi9itGTddCo9mI?e=LJ1nLJ) : Pour positionner le BIM et les logiciels que nous utilisons par rapport à un workflow général de production de documents. 
 ### Articulation avec les autres enseignements
 
 Ce cours s’inscrit dans une série d’enseignements portant sur les données manipulées par les architectes :
