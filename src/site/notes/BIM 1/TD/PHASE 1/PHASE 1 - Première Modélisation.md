@@ -7,7 +7,7 @@ Cette première phase correspond à une modélisation des premières phases de c
 [[BIM 1/TD/PHASE 1/1.1 - Mise en place du fichier de travail\|1.1 - Mise en place du fichier de travail]]
 [[BIM 1/TD/PHASE 1/1.2 - Modélisation avec volumétrie simple\|1.2 - Modélisation avec volumétrie simple]]
 [[BIM 1/TD/PHASE 1/1.3 - Mise en page pour revue de projet\|1.3 - Mise en page pour revue de projet]] 
-[[BIM 1/TD/PHASE 1/1.4 - Corrections de conception et compléments\|1.4 - Corrections de conception et compléments]]
+[[BIM 1/TD/PHASE 1/1.4 - Corrections de conception\|1.4 - Corrections de conception]]
 [[BIM 1/TD/PHASE 1/1.5 - Mise en page phase 1\|1.5 - Mise en page phase 1]]
 
 
