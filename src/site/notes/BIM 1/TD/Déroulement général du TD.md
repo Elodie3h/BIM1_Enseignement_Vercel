@@ -32,3 +32,4 @@ Voir [[BIM 1/TD/PHASE 2/PHASE 2 - Modélisation détaillée\|PHASE 2 - Modélisa
 
 
 
+L'ensemble des informations sont sur https://bim-1-enseignement-vercel.vercel.app/
