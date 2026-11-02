@@ -8,17 +8,22 @@
     "SUPPORTS DE COURS"
   ],
   "/BIM 1/TD": [
+    "Prise en main d'ArchiCAD",
     "Présentation de la maison à modéliser",
     "Déroulement général du TD",
-    "PHASE 1"
+    "PHASE 1",
+    "PHASE 2"
   ],
   "/BIM 1/TD/PHASE 1": [
     "PHASE 1 - Première Modélisation",
     "1.1 - Mise en place du fichier de travail",
     "1.2 - Modélisation avec volumétrie simple",
     "1.3 - Mise en page pour revue de projet",
-    "1.4 - Corrections de conception et compléments",
-    "1.5 - Mise en page phase 1"
+    "1.5 - Mise en page phase 1",
+    "1.4 - Corrections de conception"
+  ],
+  "/BIM 1/TD/PHASE 2": [
+    "PHASE 2 - Modélisation détaillée"
   ],
   "/BIM 1/SUPPORTS DE COURS": [
     "Cours"
