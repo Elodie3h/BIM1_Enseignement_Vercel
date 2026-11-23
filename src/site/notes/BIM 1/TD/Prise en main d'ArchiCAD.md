@@ -5,7 +5,8 @@
 
 * Création d'un **nouveau projet**
 * Présentation de **l'Interface** 
-	![Pasted image 20261102113649.png](/img/user/IMAGES%20COLLEES/Pasted%20image%2020261102113649.png)
+* ![Pasted image 20261102113649.png](/img/user/IMAGES%20COLLEES/Pasted%20image%2020261102113649.png)
+	
 * **Boîte à outils** 
 	* Parties : sélection / Conception / Point de vue / Documentation 
 	* ![Pasted image 20261102113327.png](/img/user/IMAGES%20COLLEES/Pasted%20image%2020261102113327.png)
