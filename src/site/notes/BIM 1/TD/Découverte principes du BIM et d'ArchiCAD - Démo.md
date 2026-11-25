@@ -9,10 +9,10 @@ Démo de l'enseignant·e, suivi·e éventuellement des étudiant·es qui manipul
 ## 1. Découverte de l'interface
 Se familiariser avec l'environnement de travail d'ArchiCAD.
 ![Pasted image 20261102113649.png](/img/user/IMAGES%20COLLEES/Pasted%20image%2020261102113649.png)
-- Boîte à outils
-	* Parties : sélection / Conception / Point de vue / Documentation 
+- **Boîte à outils**
+	* Parties : sélection / Conception / Point de vue / Documentation
+	* Zone d'informations liée aux outils
 	* ![Pasted image 20261102113327.png](/img/user/IMAGES%20COLLEES/Pasted%20image%2020261102113327.png)
-- Barre d'informations et paramètres des outils
 * **Curseurs**  
 	* Il existe différents curseurs et il faut y prêter attention. 
 ![Pasted image 20261102114238.png](/img/user/IMAGES%20COLLEES/Pasted%20image%2020261102114238.png)
@@ -44,5 +44,8 @@ Comprendre que les différentes représentations sont issues d'une même maquett
 ## 6. Principe de fonctionnement des mise en page avec mise à jour automatique
 Découvrir le principe de production de documents graphiques à partir de la maquette numérique.
 - Observation de l'actualisation des dessins après modification de la maquette
+
+## En synthèse : 
+La mise en place de la première modélisation prend du temps que l'on est censé gagner à la fin de la conception (les mise en page sont déjà en place et se mettent simplement à jour; une modification se répercute sur l'ensemble des vues que l'on n'est pas obligé de mettre à jour)
 
 ![Pasted image 20261125123858.png](/img/user/Pasted%20image%2020261125123858.png)
