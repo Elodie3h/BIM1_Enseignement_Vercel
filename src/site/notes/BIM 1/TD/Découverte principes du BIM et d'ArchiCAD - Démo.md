@@ -16,18 +16,16 @@ Se familiariser avec l'environnement de travail d'ArchiCAD.
 * **Curseurs**  
 	* Il existe différents curseurs et il faut y prêter attention. 
 ![Pasted image 20261102114238.png](/img/user/IMAGES%20COLLEES/Pasted%20image%2020261102114238.png)
-	* Pour + de détails, voir : https://help.graphisoft.com/AC/30/INT/Topics/030_Interaction/030_Interaction-39.html?utm_source=chatgpt.com *
+	* Pour + de détails, voir : https://help.graphisoft.com/AC/30/INT/Topics/030_Interaction/030_Interaction-39.html *
 ## 2. Navigation dans le projet
 Apprendre à se déplacer dans la maquette numérique et ses différentes représentations.
 - Navigation entre les plans, les coupes, les façades et la 3D
 - Navigation au sein des vues : zoom, déplacement, rotation
-
 ## 3. Exploration des outils de modélisation : Principes de la Modélisation des Informations du Bâtiment (BIM)
 Expérimenter librement les principaux outils de modélisation architecturale.
 ![Pasted image 20261125123508.png](/img/user/Pasted%20image%2020261125123508.png)
 
 ![Pasted image 20261125123806.png](/img/user/Pasted%20image%2020261125123806.png)
-
 - Création de murs, dalles, portes et fenêtres - le comportement des objets dépend de leur catégorie
 - Sélection et modification des éléments (outils d'édition, de déplacement)
 - Exploration des paramètres des outils (Fenêtre Option - O)
