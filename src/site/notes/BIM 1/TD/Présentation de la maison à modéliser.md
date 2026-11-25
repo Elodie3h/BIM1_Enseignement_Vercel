@@ -6,7 +6,18 @@
 
 **Publication Archdaily :** [Lien Archdaily](https://www.archdaily.com/903878/une-maison-pour-surfer-java-architecture)
 **Site internet de l'agence**  : [Java Architecture](https://javarchitecture.fr/une-maison-pour-surfer/)
+
 ![Pasted image 20261006161647.png\|700](/img/user/IMAGES%20COLLEES/Pasted%20image%2020261006161647.png)
+
+Ce bâtiment a quelques caractéristiques intéressantes pour notre TD : 
+
+1. Maison d'habitation de petite taille = chaque cm est calculé, l'aménagement est important
+2. Double hauteur 
+3. Toiture avec géométrie intéressante et des débords
+4. Parties intérieur-extérieur qui nécessiteront une réflexion sur l'isolation
+5. Ossature bois, présence de poteaux
+
+
 ![Pasted image 20261031140917.png](/img/user/IMAGES%20COLLEES/Pasted%20image%2020261031140917.png)
 ![Pasted image 20261031141044.png](/img/user/IMAGES%20COLLEES/Pasted%20image%2020261031141044.png)
 ![Pasted image 20261031141224.png](/img/user/IMAGES%20COLLEES/Pasted%20image%2020261031141224.png)
