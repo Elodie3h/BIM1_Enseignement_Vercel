@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/bim-1/presentation-de-l-enseignement-bim-1-donnees-batimentaires/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
+Appel en chaque début de séance : 
+![Pasted image 20261125105936.png](/img/user/Pasted%20image%2020261125105936.png)
+https://forms.gle/wJANfZ3PHVsyGRmq9 
 ### Présentation de l’enseignement
 
 [BIM1_2627_Presentation_enseignement.pdf](https://nancyarchifr.sharepoint.com/:b:/s/PublicEtudiants/IQDSOrskzHGVQJsh18FeJAV4Aex0nEBxY0I4HIvUb4LhCHA?e=nV6AUz)
